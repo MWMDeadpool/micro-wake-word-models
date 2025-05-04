@@ -1,6 +1,6 @@
 {
   "type": "micro",
-  "wake_word": "hey Lazlo",
+  "wake_word": "Lazlo",
   "model": "hey_lazlo.tflite",
   "trained_languages": [
     "en"
