@@ -1,6 +1,6 @@
 {
 "type": "micro",
- "wake_word": "Hey Laszlo",
+ "wake_word": "Laszlo",
  "author": "Darian DeSombre",
  "model": "hey_laszlo.tflite",
  "trained_languages": ["en"],
