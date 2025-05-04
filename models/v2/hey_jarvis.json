@@ -1,9 +1,9 @@
 {
   "type": "micro",
-  "wake_word": "Hey Laszlo",
+  "wake_word": "Hey Jarvis",
   "author": "Kevin Ahrendt",
   "website": "https://www.kevinahrendt.com/",
-  "model": "hey_laszlo.tflite",
+  "model": "hey_jarvis.tflite",
   "trained_languages": ["en"],
   "version": 2,
   "micro": {
