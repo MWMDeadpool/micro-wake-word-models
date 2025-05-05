@@ -1,13 +1,13 @@
 {
   "type": "micro",
-  "wake_word": "hey_laszlo",
-  "model": "hey_laszlo.tflite",
+  "wake_word": "hey_lazlo",
+  "model": "hey_lazlo.tflite",
   "trained_languages": [
     "en"
   ],
   "version": 2,
   "micro": {
-    "probability_cutoff": 0.85,
+    "probability_cutoff": 0.63,
     "sliding_window_size": 5,
     "feature_step_size": 10,
     "tensor_arena_size": 30000,
