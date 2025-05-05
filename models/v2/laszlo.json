@@ -1,8 +1,10 @@
 {
   "type": "micro",
-  "wake_word": "hey laszlo",
-  "model": "hey_laszlo.tflite",
-  "trained_languages": ["en"],
+  "wake_word": "laszlo",
+  "model": "laszlo.tflite",
+  "trained_languages": [
+    "en"
+  ],
   "version": 2,
   "micro": {
     "probability_cutoff": 0.97,
