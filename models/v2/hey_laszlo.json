@@ -2,7 +2,7 @@
   "type": "micro",
   "wake_word": "Hey Laszlo",
   "author": "Darian DeSombre",
-  "website": "github.com/MWMDeadpool",
+  "website": "https://github.com/MWMDeadpool",
   "model": "hey_laszlo.tflite",
   "trained_languages": ["en"],
   "version": 2,
