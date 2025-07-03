@@ -1,8 +1,8 @@
 {
   "type": "micro",
   "wake_word": "laz-low",
-  "author": "master phooey",
-  "website": "https://github.com/MasterPhooey/MicroWakeWord-Trainer-Docker",
+  "author": "mwmdeadpool",
+  "website": "https://github.com/mwmdeadpool",
   "model": "laszlo.tflite",
   "trained_languages": [
     "en"
